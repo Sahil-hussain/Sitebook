@@ -1,0 +1,16 @@
+.Card{
+    margin-block: 20px;
+    margin-left: 40px;
+    margin-right:40px;
+}
+.footer_1 h4{
+    font-style: normal;
+    font-weight: 600;
+    line-height: 29px;
+    
+    
+    color: #E15757;
+}
+.col-4 h6{
+    width: 380px;
+}

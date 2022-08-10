@@ -1,0 +1,50 @@
+.Header{
+position: absolute;
+width: 80rem;
+height: 2.375rem;
+top: -0.1875rem;
+background: #B1B1B1;
+
+}
+.Header h6{
+
+    float: right;
+    margin-top: .813rem;
+    margin-right: 1.4rem;
+
+}
+.Header img{
+    position: absolute;
+    float: right;
+    margin-top: 1.013rem;
+    width: .6rem;
+    margin-right: 1rem;
+    margin-left: -.8rem;
+}
+.Logo{
+     justify-content: center;
+}
+.Logo img{
+     float: right;
+}
+.Logo button{
+position: absolute;
+width: 113px;
+height: 45px;
+left: 1103px;
+top: 48px;
+background: #E15757;
+border-color: white;
+border-radius: 10px;
+color: white;
+}
+.Fyt h5{
+position: absolute;
+font-style: normal;
+font-weight: 700;
+font-size: 65px;
+left: 141px;
+top: 83px;
+line-height: 108px;
+color: #FFFFFF;
+}
